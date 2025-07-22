@@ -64,7 +64,7 @@ CLASS:PUBLIC
 CREATED:20250108T000236Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20260104T233000
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;TZID="Mountain Standard Time":20251231T120000
 LAST-MODIFIED:20250108T000237Z
 PRIORITY:5
@@ -594,7 +594,7 @@ CLASS:PUBLIC
 CREATED:20250108T000136Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20251228T233000
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;TZID="Mountain Standard Time":20251224T120000
 LAST-MODIFIED:20250108T000138Z
 PRIORITY:5
@@ -1124,7 +1124,7 @@ CLASS:PUBLIC
 CREATED:20250107T235913Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20251201
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20251127
 LAST-MODIFIED:20250107T235914Z
 PRIORITY:5
@@ -1654,7 +1654,7 @@ CLASS:PUBLIC
 CREATED:20250107T235823Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20251108
 LAST-MODIFIED:20250107T235824Z
 PRIORITY:5
@@ -2184,7 +2184,7 @@ CLASS:PUBLIC
 CREATED:20250107T235627Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20251014
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20251010
 LAST-MODIFIED:20250114T225653Z
 PRIORITY:5
@@ -2714,7 +2714,7 @@ CLASS:PUBLIC
 CREATED:20250107T235546Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20250902
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20250829
 LAST-MODIFIED:20250107T235548Z
 PRIORITY:5
@@ -3244,7 +3244,7 @@ CLASS:PUBLIC
 CREATED:20250107T232251Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20250802
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20250728
 LAST-MODIFIED:20250513T174917Z
 PRIORITY:5
@@ -3774,7 +3774,7 @@ CLASS:PUBLIC
 CREATED:20250107T231950Z
 DESCRIPTION:\n
 DTEND;VALUE=DATE:20250819
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20250727
 LAST-MODIFIED:20250722T163002Z
 PRIORITY:5
@@ -4311,7 +4311,7 @@ CLASS:PUBLIC
 CREATED:20240510T192549Z
 DESCRIPTION: \n
 DTEND;VALUE=DATE:20260519
-DTSTAMP:20250722T165244Z
+DTSTAMP:20250722T172135Z
 DTSTART;VALUE=DATE:20260518
 LAST-MODIFIED:20250521T145950Z
 PRIORITY:5
@@ -7526,7 +7526,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250716T063236Z
 DTEND:20250723T200000Z
-DTSTAMP:20250722T165607Z
+DTSTAMP:20250722T172548Z
 DTSTART:20250723T190000Z
 LAST-MODIFIED:20250722T144202Z
 PRIORITY:5
@@ -7545,7 +7545,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250710T214709Z
 DTEND:20250806T200000Z
-DTSTAMP:20250722T165607Z
+DTSTAMP:20250722T172548Z
 DTSTART:20250806T190000Z
 LAST-MODIFIED:20250710T214710Z
 PRIORITY:5
@@ -7564,7 +7564,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250710T214708Z
 DTEND:20250820T200000Z
-DTSTAMP:20250722T165607Z
+DTSTAMP:20250722T172548Z
 DTSTART:20250820T190000Z
 LAST-MODIFIED:20250710T214708Z
 PRIORITY:5
@@ -7583,7 +7583,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250717T073101Z
 DTEND:20250903T200000Z
-DTSTAMP:20250722T165607Z
+DTSTAMP:20250722T172548Z
 DTSTART:20250903T190000Z
 LAST-MODIFIED:20250717T073101Z
 PRIORITY:5
@@ -7602,7 +7602,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250710T214710Z
 DTEND:20250917T200000Z
-DTSTAMP:20250722T165607Z
+DTSTAMP:20250722T172548Z
 DTSTART:20250917T190000Z
 LAST-MODIFIED:20250710T214710Z
 PRIORITY:5
@@ -8437,7 +8437,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250718T000757Z
 DTEND:20250731T200000Z
-DTSTAMP:20250722T165735Z
+DTSTAMP:20250722T172739Z
 DTSTART:20250731T190000Z
 LAST-MODIFIED:20250718T000758Z
 PRIORITY:5
@@ -8456,7 +8456,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250711T135433Z
 DTEND:20250814T200000Z
-DTSTAMP:20250722T165735Z
+DTSTAMP:20250722T172739Z
 DTSTART:20250814T190000Z
 LAST-MODIFIED:20250711T135433Z
 PRIORITY:5
@@ -8475,7 +8475,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250711T135434Z
 DTEND:20250828T200000Z
-DTSTAMP:20250722T165735Z
+DTSTAMP:20250722T172739Z
 DTSTART:20250828T190000Z
 LAST-MODIFIED:20250711T135435Z
 PRIORITY:5
@@ -8494,7 +8494,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20250711T135436Z
 DTEND:20251009T200000Z
-DTSTAMP:20250722T165735Z
+DTSTAMP:20250722T172739Z
 DTSTART:20251009T190000Z
 LAST-MODIFIED:20250711T135437Z
 PRIORITY:5
@@ -9211,7 +9211,7 @@ CLASS:PUBLIC
 CREATED:20250513T171013Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20250821T110000
-DTSTAMP:20250722T165947Z
+DTSTAMP:20250722T173032Z
 DTSTART;TZID="Mountain Standard Time":20250821T100000
 LAST-MODIFIED:20250722T163044Z
 LOCATION:1411 S Potomac St\, Suite 350\, Aurora\, Co 80012
@@ -9733,351 +9733,12 @@ X-MS-OLK-AUTOFILLLOCATION:FALSE
 X-MS-OLK-CONFTYPE:0
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN="📱USMC Mobile Computing";RSVP=TRUE:invalid:nomail
-ATTENDEE;CN="McGee CIV Troy Shane";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:troy.
-	mcgee.civ@usmc.mil
-ATTENDEE;CN="Costa CTR Henry Joseph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=ACCEPTED:mailto:henry.j.costa.ctr@usmc.mil
-ATTENDEE;CN="Holloman CIV Kelvin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:kelvin.holloman.civ@usmc.mil
-ATTENDEE;CN="Williams Cpl Nigel D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ni
-	gel.williams@usmc.mil
-ATTENDEE;CN="Karger Sgt Jonathan M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:j
-	onathan.m.karger1.mil@usmc.mil
-ATTENDEE;CN="Blevins CIV Yannick J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=ACCEPTED:mailto:yannick.blevins@usmc.mil
-ATTENDEE;CN="Woodward CTR Richard L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=ACCEPTED:mailto:richard.woodward.ctr@usmc.mil
-ATTENDEE;CN="Edenfield CIV Telisa R";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
-	telisa.edenfield@usmc.mil
-ATTENDEE;CN="Dawson CTR Adam K";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:adam.
-	dawson.ctr@usmc.mil
-ATTENDEE;CN="Alexander CIV Kevin R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=ACCEPTED:mailto:kevin.r.alexander@usmc.mil
-ATTENDEE;CN="Paquette LtCol Ian P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:ian.paquette@usmc.mil
-ATTENDEE;CN="Lake SSgt Stephen J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
-	ECLINED:mailto:Stephen.Lake@usmc.mil
-ATTENDEE;CN="Liberman CIV Joshua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
-	ECLINED:mailto:joshua.liberman@usmc.mil
-ATTENDEE;CN="Goins CIV James B";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
-	EPTED:mailto:james.goins@usmc.mil
-ATTENDEE;CN="Wason CIV Marc P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
-	ATIVE:mailto:marc.wason@usmc.mil
-ATTENDEE;CN="Boese CIV Adele R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
-	EPTED:mailto:adele.boese@usmc.mil
-ATTENDEE;CN="Gdowski CIV Darrin D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:darrin.d.gdowski@usmc.mil
-ATTENDEE;CN="Knott CIV Stephen C";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:stephen.knott@usmc.mil
-ATTENDEE;CN="Bonner CIV Wymon L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
-	CEPTED:mailto:wymon.bonner@usmc.mil
-ATTENDEE;CN="Adams SSgt Ryan A";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
-	EPTED:mailto:ryan.a.adams@usmc.mil
-ATTENDEE;CN="Joiner CTR Zachary T";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:za
-	chary.joiner.ctr@usmc.mil
-ATTENDEE;CN="Walcott CIV Robert W";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	DECLINED:mailto:Robert.Walcott@marines.usmc.mil
-ATTENDEE;CN="Monical CIV Robert L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:robert.monical@usmc.mil
-ATTENDEE;CN="Oberg PO1 Matthew T";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:matthew.oberg@usmc.mil
-ATTENDEE;CN="Brandt CIV Christophe J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:christopher.brandt@usmc.mil
-ATTENDEE;CN="Bernard CIV Michael E";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:m
-	ichael.bernard@usmc.mil
-ATTENDEE;CN="Hogan CIV Peter J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
-	TATIVE:mailto:pete.hogan@usmc.mil
-ATTENDEE;CN="McDonald CTR James A III";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:james.a.mcdonald.ctr@usmc.mil
-ATTENDEE;CN="Livingston SSgt Victoria J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
-	lto:Victoria.Livingston@marines.usmc.mil
-ATTENDEE;CN="Hudson CIV Henry";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
-	PTED:mailto:Henry.Hudson@marines.usmc.mil
-ATTENDEE;CN="Lee CIV James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
-	VE:mailto:jim.lee@usmc.mil
-ATTENDEE;CN="Roseberry CIV Wayne D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=DECLINED:mailto:wayne.roseberry@usmc.mil
-ATTENDEE;CN="Logan PO3 Amiya D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:amiya
-	.logan@usmc.mil
-ATTENDEE;CN="Waters CTR Wilson A JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=ACCEPTED:mailto:wilson.waters.ctr@usmc.mil
-ATTENDEE;CN="Feeney CIV Stephen J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:St
-	ephen.Feeney@marines.usmc.mil
-ATTENDEE;CN="Dykstra CIV Jeremy R";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Je
-	remy.Dykstra@marines.usmc.mil
-ATTENDEE;CN="Garcia CIV James V";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
-	CEPTED:mailto:James.Garcia@marines.usmc.mil
-ATTENDEE;CN="Carino CIV Denwill Ross M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
-	to:DenwillRoss.Carino@marines.usmc.mil
-ATTENDEE;CN="Law CIV Alena M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Alena.L
-	aw@marines.usmc.mil
-ATTENDEE;CN="Dorta CIV Vincent M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Vin
-	cent.Dorta@marines.usmc.mil
-ATTENDEE;CN="Wilson CIV Denzel M";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:Denzel.Wilson@marines.usmc.mil
-ATTENDEE;CN="Bastrup CIV Cassie L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:cassie.l.bastrup@usmc.mil
-ATTENDEE;CN="Benavides CIV Frank C JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:frank.c.benavides@usmc.mil
-ATTENDEE;CN="Smith CIV Clinton I";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
-	ENTATIVE:mailto:clinton.i.smith1@usmc.mil
-ATTENDEE;CN="Pena Cpl Gerardo J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:gera
-	rdo.pena@usmc.mil
-ATTENDEE;CN="Dzierbicki SSgt Thomas P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:thomas.dzierbicki@usmc.mil
-ATTENDEE;CN="Banister CIV Robert Francis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
-	RTSTAT=ACCEPTED:mailto:robert.f.banister@usmc.mil
-ATTENDEE;CN="McConnell CIV John D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:john.d.mcconnell2@usmc.mil
-ATTENDEE;CN="Norton Capt Okcuse C";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	DECLINED:mailto:okcuse.norton@usmc.mil
-ATTENDEE;CN="Dandro CIV Michael A";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	DECLINED:mailto:michael.dandro@usmc.mil
-ATTENDEE;CN="Brady SSgt Tariq M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tari
-	q.brady@usmc.mil
-ATTENDEE;CN="Villa CIV Manuel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
-	INED:mailto:manuel.villa@usmc.mil
-ATTENDEE;CN="Stewart CIV Oscar W";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:oscar.w.stewart@usmc.mil
-ATTENDEE;CN="McClure CIV Lisa M";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
-	NTATIVE:mailto:lisa.mcclure@usmc.mil
-ATTENDEE;CN="Woehler CIV Christopher G";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
-	STAT=DECLINED:mailto:christopher.woehler@usmc.mil
-ATTENDEE;CN="Velasco CIV John O";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
-	CEPTED:mailto:john.o.velasco@usmc.mil
-ATTENDEE;CN="Stengler CWO3 Mitchell L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=TENTATIVE:mailto:mitchell.stengler@usmc.mil
-ATTENDEE;CN="MALS36 ALIMS";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:MALS36ALIM
-	S@usmc.mil
-ATTENDEE;CN="Smith MSgt Stanley D JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:stanley.d.smith@usmc.mil
-ATTENDEE;CN="Wilcox CIV Marshall R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=ACCEPTED:mailto:marshall.wilcox@usmc.mil
-ATTENDEE;CN="Hall CIV Dakota G";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dakot
-	a.hall@usmc.mil
-ATTENDEE;CN="You MSgt Charles J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
-	CLINED:mailto:charles.you.mil@usmc.mil
-ATTENDEE;CN="Stewart Capt Monique N";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=DECLINED:mailto:monique.allyn@usmc.mil
-ATTENDEE;CN="Zagal Capt Raquel";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:raque
-	l.zagal@usmc.mil
-ATTENDEE;CN="Trobaugh PFC Gattlin E";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
-	gattlin.e.trobaugh.mil@usmc.mil
-ATTENDEE;CN="Tovarvelasquez PFC Christopher S";ROLE=OPT-PARTICIPANT;RSVP=TR
-	UE:mailto:christopher.s.tovarvelasquez.mil@usmc.mil
-ATTENDEE;CN="Rogers LCpl John N";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:john
-	.rogers@usmc.mil
-ATTENDEE;CN="Garcia Medina Sgt Cesar D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
-	to:cesar.garciamedina@usmc.mil
-ATTENDEE;CN="Morales Sgt Miriam R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:miriam.morales@usmc.mil
-CLASS:PUBLIC
-CREATED:20250630T121226Z
-DESCRIPTION:For new and yearly refresher training related to Intune Adminis
-	tration and provisioning of devices for end users. \n\n\n\n\n_____________
-	___________________________________________________________________\nMicro
-	soft Teams Need help? <https://usg01.safelinks.protection.office365.us/?ur
-	l=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Ccr
-	aig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b
-	080f2e290072444fd%7C0%7C0%7C638868823459897361%7CUnknown%7CTWFpbGZsb3d8eyJ
-	FbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsI
-	ldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hqPr%2FVYNcwAtp8cwfdH1ODoYGr3HPCYVTrk2%
-	2Ftqmft8%3D&reserved=0>  \nJoin the meeting now <https://usg01.safelinks.p
-	rotection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2Fl%2Fmee
-	tup-join%2F19%253adod%253a6f94617acee347dc8512fefec941bf4f%2540thread.skyp
-	e%2F1720625186370%3Fcontext%3D%257b%2522Tid%2522%253a%2522f4c44cda-18c6-46
-	b0-80f2-e290072444fd%2522%252c%2522Oid%2522%253a%2522ec253d09-a531-4fd4-a0
-	ca-034d719c6367%2522%257d&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d
-	4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638
-	868823459914433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLj
-	AuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sd
-	ata=DNVsRe9MZI6eUjjQJOr%2F4BCoYfuyzRn5iXwhi0MmWVA%3D&reserved=0>  \nMeetin
-	g ID: 993 431 657 428 \nPasscode: oGhviN \n_______________________________
-	_\n\nDial in by phone \n+1 410-874-6743\,\,502461741# <tel:+14108746743\,\
-	,502461741#>  United States\, Odenton \nFind a local number <https://usg01
-	.safelinks.protection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams
-	.microsoft.us%2Fa0baf92a-c7a6-4aa5-a95c-0191d34d5250%3Fid%3D502461741&data
-	=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4
-	c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459924059%7CUnknown%7CTW
-	FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
-	IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6Donq2hfTvW8d0eiRAxjiBZ%2F
-	TV1rm%2FP0Kmh4fxkrUM4%3D&reserved=0>  \nPhone conference ID: 502 461 741# 
-	\nFor organizers: Meeting options <https://usg01.safelinks.protection.offi
-	ce365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2FmeetingOptions%2F%3Fo
-	rganizerId%3Dec253d09-a531-4fd4-a0ca-034d719c6367%26tenantId%3Df4c44cda-18
-	c6-46b0-80f2-e290072444fd%26threadId%3D19_dod_6f94617acee347dc8512fefec941
-	bf4f%40thread.skype%26messageId%3D1720625186370%26language%3Den-US&data=05
-	%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44
-	cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459933093%7CUnknown%7CTWFpb
-	GZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjo
-	iTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FtImPzH6nlf%2FXhJkGoAL2VCl6AV
-	tWTIn4hG5Q1g7cbs%3D&reserved=0>  | Reset dial-in PIN <https://usg01.safeli
-	nks.protection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.micros
-	oft.us%2Fusp&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf2
-	08ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C6388688234599417
-	87%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA
-	iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Utx0Q%2BY
-	CcR4WL8qSAUkaw5TzX5Cg1%2F%2FWl06Et%2F2TdVQ%3D&reserved=0>  \n <https://www
-	.hqmc.marines.mil/Portals/134/Site%20Images/SmallLineArt.jpg> \n“If your
-	 meeting is setup for dial-in conferencing with a primary phone number and
-	 Conference ID# listed above\, you can alternatively use (410) 874-6753 or
-	 from a DSN telephone you can dial (322) 874-6743 or (322) 874-6753 and en
-	ter the Conference ID#.”\nOrg help <https://usmc.sharepoint-mil.us/sites
-	/MCEN_SUPPORT_EnterpriseServiceDesk?xsdata=MDV8MDJ8Y3JhaWcucmljaGllQHVzbWM
-	ubWlsfDRmODhhOWQ0YjExMjRhZTA1Y2YyMDhkZGI3Y2Y1ZDZifGY0YzQ0Y2RhMThjNjQ2YjA4M
-	GYyZTI5MDA3MjQ0NGZkfDB8MHw2Mzg4Njg4MjM0NTk5NDk3OTV8VW5rbm93bnxUV0ZwYkdac2I
-	zZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYY
-	Vc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&sdata=MktTRWVpc2
-	RqWFhLT2EwU0xLMlhjQ29WSUNOQVFrdXl0VkxhS3hmUGdYST0%3d>  | Privacy and secur
-	ity <https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fww
-	w.hqmc.marines.mil%2Fsja%2F&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a
-	9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C6
-	38868823459955474%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
-	LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
-	sdata=eCqMfmmN6byW1kFN%2B4UAJJ7jNOX554m%2BJz%2FEmouMsS4%3D&reserved=0>  \n
-	__________________________________________________________________________
-	______\n
-DTEND;TZID="Eastern Standard Time":20250814T143000
-DTSTAMP:20250630T121219Z
-DTSTART;TZID="Eastern Standard Time":20250814T130000
-LAST-MODIFIED:20250717T174037Z
-ORGANIZER;CN="📱USMC Mobile Computing":invalid:nomail
-PRIORITY:5
-RRULE:FREQ=MONTHLY;COUNT=11;BYDAY=TH;BYSETPOS=2
-SEQUENCE:169
-SUMMARY:Intune MSA Training
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E0080000000014F6708ADDD2DA01000000000000000
-	0100000000C768D2A0FC3DF449F28AFAE88728EEF
-X-ALT-DESC;FMTTYPE=text/html:<html><head>\n<meta http-equiv="Content-Type" 
-	content="text/html\; charset=utf-8"></head>\n<body>\n<p>For new and yearly
-	 refresher training related to Intune Administration and provisioning of d
-	evices for end users.&nbsp\;</p>\n<div><br>\n<br>\n<br>\n<div class="me-em
-	ail-text" style="max-width:520px\; color:#242424\; font-family:'Segoe UI'\
-	,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif">\n<div style="margin-bott
-	om:24px\; overflow:hidden\; white-space:nowrap">__________________________
-	______________________________________________________</div>\n<div style="
-	margin-bottom:12px"><span class="me-email-text" style="font-size:24px\; fo
-	nt-weight:700\; margin-right:12px">Microsoft Teams</span>\n<a href="https:
-	//usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Faka.ms%2FJoin
-	TeamsMeeting%3Fomkt%3Den-US&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C
-	4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C
-	0%7C638868823459897361%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
-	iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
-	C%7C&amp\;sdata=hqPr%2FVYNcwAtp8cwfdH1ODoYGr3HPCYVTrk2%2Ftqmft8%3D&amp\;re
-	served=0" id="meet_invite_block.action.help" class="me-email-link" style="
-	font-size:14px\; text-decoration:underline\; color:#5B5FC7">\nNeed help?</
-	a> </div>\n<div style="margin-bottom:6px"><a href="https://usg01.safelinks
-	.protection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2Fl%2Fm
-	eetup-join%2F19%253adod%253a6f94617acee347dc8512fefec941bf4f%2540thread.sk
-	ype%2F1720625186370%3Fcontext%3D%257b%2522Tid%2522%253a%2522f4c44cda-18c6-
-	46b0-80f2-e290072444fd%2522%252c%2522Oid%2522%253a%2522ec253d09-a531-4fd4-
-	a0ca-034d719c6367%2522%257d&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C
-	4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C
-	0%7C638868823459914433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
-	iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
-	C%7C&amp\;sdata=DNVsRe9MZI6eUjjQJOr%2F4BCoYfuyzRn5iXwhi0MmWVA%3D&amp\;rese
-	rved=0" id="meet_invite_block.action.join_link" title="Meeting join link" 
-	class="me-email-headline" style="font-size:20px\; font-weight:600\; text-d
-	ecoration:underline\; color:#5B5FC7">Join\n the meeting now</a> </div>\n<d
-	iv style="margin-bottom:6px"><span class="me-email-text-secondary" style="
-	font-size:14px\; color:#616161">Meeting ID:\n</span><span class="me-email-
-	text" style="font-size:14px\; color:#242424">993 431 657 428</span>\n</div
-	>\n<div style="margin-bottom:24px"><span class="me-email-text-secondary" s
-	tyle="font-size:14px\; color:#616161">Passcode:\n</span><span class="me-em
-	ail-text" style="font-size:14px\; color:#242424">oGhviN</span>\n</div>\n<d
-	iv style="margin-bottom:24px\; max-width:532px">\n<hr style="border:0\; ba
-	ckground:#D1D1D1\; height:1px">\n</div>\n<div>\n<div style="margin-bottom:
-	6px"><span class="me-email-text" style="font-size:16px\; color:#242424\; f
-	ont-weight:600\; margin-right:4px">Dial in by phone</span>\n</div>\n<div s
-	tyle="margin-bottom:6px"><a href="tel:+14108746743\,\,502461741#" id="meet
-	_invite_block.action.join_phone_number1" class="me-email-link" style="font
-	-size:14px\; text-decoration:underline\; color:#5B5FC7\; margin-right:6px"
-	>+1 410-874-6743\,\,502461741#</a>\n<span class="me-email-text" style="fon
-	t-size:14px\; color:#616161">United States\, Odenton</span>\n</div>\n<div 
-	style="margin-bottom:6px"><a href="https://usg01.safelinks.protection.offi
-	ce365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.microsoft.us%2Fa0baf92a-c
-	7a6-4aa5-a95c-0191d34d5250%3Fid%3D502461741&amp\;data=05%7C02%7Ccraig.rich
-	ie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e29
-	0072444fd%7C0%7C0%7C638868823459924059%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1
-	hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf
-	Q%3D%3D%7C0%7C%7C%7C&amp\;sdata=6Donq2hfTvW8d0eiRAxjiBZ%2FTV1rm%2FP0Kmh4fx
-	krUM4%3D&amp\;reserved=0" id="meet_invite_block.action.join_phone_find_loc
-	al_number" class="me-email-link" style="font-size:14px\; text-decoration:u
-	nderline\; color:#5B5FC7">Find\n a local number</a> </div>\n</div>\n<div s
-	tyle="margin-bottom:24px"><span class="me-email-text-secondary" style="fon
-	t-size:14px\; color:#616161">Phone conference ID:\n</span><span class="me-
-	email-text" style="font-size:14px\; color:#242424">502 461 741#</span>\n</
-	div>\n<div><span class="me-email-text-secondary" style="font-size:14px\; c
-	olor:#616161">For organizers:\n</span><a href="https://usg01.safelinks.pro
-	tection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2FmeetingOp
-	tions%2F%3ForganizerId%3Dec253d09-a531-4fd4-a0ca-034d719c6367%26tenantId%3
-	Df4c44cda-18c6-46b0-80f2-e290072444fd%26threadId%3D19_dod_6f94617acee347dc
-	8512fefec941bf4f%40thread.skype%26messageId%3D1720625186370%26language%3De
-	n-US&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208d
-	db7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459933093%
-	7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOi
-	JXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=FtImPzH
-	6nlf%2FXhJkGoAL2VCl6AVtWTIn4hG5Q1g7cbs%3D&amp\;reserved=0" id="meet_invite
-	_block.action.organizer_meet_options" class="me-email-link" style="font-si
-	ze:14px\; text-decoration:underline\; color:#5B5FC7">Meeting\n options</a>
-	 <span style="color:#D1D1D1">|</span> <a href="https://usg01.safelinks.pro
-	tection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.microsoft.us%
-	2Fusp&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208
-	ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459941787
-	%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiO
-	iJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=Utx0Q%
-	2BYCcR4WL8qSAUkaw5TzX5Cg1%2F%2FWl06Et%2F2TdVQ%3D&amp\;reserved=0" id="meet
-	_invite_block.action.organizer_reset_dialin_pin" class="me-email-link" sty
-	le="font-size:14px\; text-decoration:underline\; color:#5B5FC7">\nReset di
-	al-in PIN</a> </div>\n<div style="margin-top:24px\; margin-bottom:6px"><im
-	g data-imagetype="External" style="height:32px\; display:block\; margin-bo
-	ttom:6px" src="https://www.hqmc.marines.mil/Portals/134/Site%20Images/Smal
-	lLineArt.jpg">\n<div class="me-email-text-secondary" style="color:#616161\
-	; font-size:14px">“If your meeting is setup for dial-in conferencing wit
-	h a primary phone number and Conference ID# listed above\, you can alterna
-	tively use (410) 874-6753 or from a DSN telephone you can\n dial (322) 874
-	-6743 or (322) 874-6753 and enter the Conference ID#.”</div>\n</div>\n<d
-	iv style="margin-bottom:24px"><a href="https://usmc.sharepoint-mil.us/site
-	s/MCEN_SUPPORT_EnterpriseServiceDesk?xsdata=MDV8MDJ8Y3JhaWcucmljaGllQHVzbW
-	MubWlsfDRmODhhOWQ0YjExMjRhZTA1Y2YyMDhkZGI3Y2Y1ZDZifGY0YzQ0Y2RhMThjNjQ2YjA4
-	MGYyZTI5MDA3MjQ0NGZkfDB8MHw2Mzg4Njg4MjM0NTk5NDk3OTV8VW5rbm93bnxUV0ZwYkdac2
-	IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpY
-	YVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&amp\;sdata=MktT
-	RWVpc2RqWFhLT2EwU0xLMlhjQ29WSUNOQVFrdXl0VkxhS3hmUGdYST0%3d" id="meet_invit
-	e_block.action.org_help" class="me-email-link" style="font-size:14px\; tex
-	t-decoration:underline\; color:#5B5FC7">Org help</a>\n<span style="color:#
-	D1D1D1">|</span> <a href="https://usg01.safelinks.protection.office365.us/
-	?url=https%3A%2F%2Fwww.hqmc.marines.mil%2Fsja%2F&amp\;data=05%7C02%7Ccraig
-	.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080
-	f2e290072444fd%7C0%7C0%7C638868823459955474%7CUnknown%7CTWFpbGZsb3d8eyJFbX
-	B0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldU
-	IjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=eCqMfmmN6byW1kFN%2B4UAJJ7jNOX554m%2BJ
-	z%2FEmouMsS4%3D&amp\;reserved=0" id="meet_invite_block.action.org_privacy"
-	 class="me-email-link" style="font-size:14px\; text-decoration:underline\;
-	 color:#5B5FC7">\nPrivacy and security</a> </div>\n<div style="margin-bott
-	om:24px\; overflow:hidden\; white-space:nowrap">__________________________
-	______________________________________________________</div>\n</div>\n</di
-	v>\n</body>\n</html>\n
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MS-OLK-APPTLASTSEQUENCE:172
-X-MS-OLK-APPTSEQTIME:20250630T121219Z
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Appt/Leave/Personal
 CLASS:PUBLIC
 CREATED:20250630T204304Z
 DESCRIPTION:303 228 8871\n
 DTEND;TZID="Mountain Standard Time":20250722T140000
-DTSTAMP:20250722T170017Z
+DTSTAMP:20250722T173032Z
 DTSTART;TZID="Mountain Standard Time":20250722T130000
 LAST-MODIFIED:20250630T204400Z
 LOCATION:63 N Quebec St\, Denver\, CO
@@ -10760,7 +10421,7 @@ DESCRIPTION:Marines\,\n\n \n\nRe-establishing the Log Brief on the calendar
 DTEND;TZID="Mountain Standard Time":20250716T150000
 DTSTAMP:20250611T222518Z
 DTSTART;TZID="Mountain Standard Time":20250716T140000
-LAST-MODIFIED:20250714T162248Z
+LAST-MODIFIED:20250722T171731Z
 LOCATION:Microsoft Teams Meeting
 ORGANIZER;CN="Hermance Maj Ryan W":mailto:ryan.w.hermance@usmc.mil
 PRIORITY:5
@@ -10949,14 +10610,14 @@ CREATED:20250708T223532Z
 DTEND:20250723T210000Z
 DTSTAMP:20250713T025931Z
 DTSTART:20250723T200000Z
-LAST-MODIFIED:20250714T162247Z
+LAST-MODIFIED:20250722T171731Z
 PRIORITY:5
 RECURRENCE-ID:20250716T200000Z
 SEQUENCE:2
 TRANSP:OPAQUE
 UID:040000008200E00074C5B7101A82E0080000000010A2DC1DEBDADB01000000000000000
 	010000000E8DBD48835D2FE49AF4BA0D45BD6B7DC
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MS-OLK-APPTSEQTIME:20250611T222518Z
 BEGIN:VALARM
@@ -10971,7 +10632,7 @@ CLASS:PUBLIC
 CREATED:20250513T171013Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20250825T130000
-DTSTAMP:20250722T170039Z
+DTSTAMP:20250722T173059Z
 DTSTART;TZID="Mountain Standard Time":20250825T120000
 LAST-MODIFIED:20250722T164751Z
 LOCATION:1411 S Potomac St\, Suite 350\, Aurora\, Co 80012
@@ -11498,7 +11159,7 @@ CLASS:PUBLIC
 CREATED:20250513T171013Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20250828T130000
-DTSTAMP:20250722T170039Z
+DTSTAMP:20250722T173059Z
 DTSTART;TZID="Mountain Standard Time":20250828T120000
 LAST-MODIFIED:20250722T164800Z
 LOCATION:1411 S Potomac St\, Suite 350\, Aurora\, Co 80012
@@ -12025,7 +11686,7 @@ CLASS:PUBLIC
 CREATED:20250513T171013Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20250902T143000
-DTSTAMP:20250722T170039Z
+DTSTAMP:20250722T173059Z
 DTSTART;TZID="Mountain Standard Time":20250902T133000
 LAST-MODIFIED:20250722T164852Z
 LOCATION:1411 S Potomac St\, Suite 350\, Aurora\, Co 80012
@@ -12552,7 +12213,7 @@ CLASS:PUBLIC
 CREATED:20250513T171013Z
 DESCRIPTION: \n
 DTEND;TZID="Mountain Standard Time":20250904T123000
-DTSTAMP:20250722T170039Z
+DTSTAMP:20250722T173059Z
 DTSTART;TZID="Mountain Standard Time":20250904T113000
 LAST-MODIFIED:20250722T164911Z
 LOCATION:1411 S Potomac St\, Suite 350\, Aurora\, Co 80012
@@ -13096,8 +12757,8 @@ ATTENDEE;CN="Hanner SSgt Aric G";RSVP=TRUE:mailto:aric.hanner.mil@usmc.mil
 ATTENDEE;CN="Arnold MSgt Tyler M";RSVP=TRUE:mailto:tyler.arnold@usmc.mil
 ATTENDEE;CN="Edwards MSgt Klinton M";RSVP=TRUE:mailto:klinton.edwards@usmc.
 	mil
-ATTENDEE;CN="Richie GySgt Craig R";RSVP=TRUE;PARTSTAT=TENTATIVE;X-MS-OLK-RE
-	SPTIME=20250722T164900Z:mailto:craig.richie@usmc.mil
+ATTENDEE;CN="Richie GySgt Craig R";RSVP=TRUE;PARTSTAT=ACCEPTED;X-MS-OLK-RES
+	PTIME=20250722T171700Z:mailto:craig.richie@usmc.mil
 CLASS:PUBLIC
 CREATED:20250701T182127Z
 DESCRIPTION:Gentlemen\,\n\n \n\nMLG Chaplain is going to come out to us and
@@ -13109,7 +12770,7 @@ DESCRIPTION:Gentlemen\,\n\n \n\nMLG Chaplain is going to come out to us and
 DTEND;TZID="Mountain Standard Time":20250903T173000
 DTSTAMP:20250701T182115Z
 DTSTART;TZID="Mountain Standard Time":20250902T080000
-LAST-MODIFIED:20250722T164916Z
+LAST-MODIFIED:20250722T171733Z
 ORGANIZER;CN="Hermance Maj Ryan W":mailto:ryan.w.hermance@usmc.mil
 PRIORITY:5
 SEQUENCE:0
@@ -13144,10 +12805,349 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	laceholder on the calendar so we don&#8217\;t plan anything over it. <o:p>
 	</o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">
 	Maj H<o:p></o:p></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 X-MS-OLK-APPTLASTSEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="📱USMC Mobile Computing";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="McGee CIV Troy Shane";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:troy.
+	mcgee.civ@usmc.mil
+ATTENDEE;CN="Costa CTR Henry Joseph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:henry.j.costa.ctr@usmc.mil
+ATTENDEE;CN="Holloman CIV Kelvin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:kelvin.holloman.civ@usmc.mil
+ATTENDEE;CN="Williams Cpl Nigel D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ni
+	gel.williams@usmc.mil
+ATTENDEE;CN="Karger Sgt Jonathan M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:j
+	onathan.m.karger1.mil@usmc.mil
+ATTENDEE;CN="Blevins CIV Yannick J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:yannick.blevins@usmc.mil
+ATTENDEE;CN="Woodward CTR Richard L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:richard.woodward.ctr@usmc.mil
+ATTENDEE;CN="Edenfield CIV Telisa R";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	telisa.edenfield@usmc.mil
+ATTENDEE;CN="Dawson CTR Adam K";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:adam.
+	dawson.ctr@usmc.mil
+ATTENDEE;CN="Alexander CIV Kevin R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:kevin.r.alexander@usmc.mil
+ATTENDEE;CN="Paquette LtCol Ian P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:ian.paquette@usmc.mil
+ATTENDEE;CN="Lake SSgt Stephen J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Stephen.Lake@usmc.mil
+ATTENDEE;CN="Liberman CIV Joshua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:joshua.liberman@usmc.mil
+ATTENDEE;CN="Goins CIV James B";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:james.goins@usmc.mil
+ATTENDEE;CN="Wason CIV Marc P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:marc.wason@usmc.mil
+ATTENDEE;CN="Boese CIV Adele R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:adele.boese@usmc.mil
+ATTENDEE;CN="Gdowski CIV Darrin D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:darrin.d.gdowski@usmc.mil
+ATTENDEE;CN="Knott CIV Stephen C";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:stephen.knott@usmc.mil
+ATTENDEE;CN="Bonner CIV Wymon L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:wymon.bonner@usmc.mil
+ATTENDEE;CN="Adams SSgt Ryan A";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:ryan.a.adams@usmc.mil
+ATTENDEE;CN="Joiner CTR Zachary T";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:za
+	chary.joiner.ctr@usmc.mil
+ATTENDEE;CN="Walcott CIV Robert W";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:Robert.Walcott@marines.usmc.mil
+ATTENDEE;CN="Monical CIV Robert L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:robert.monical@usmc.mil
+ATTENDEE;CN="Oberg PO1 Matthew T";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:matthew.oberg@usmc.mil
+ATTENDEE;CN="Brandt CIV Christophe J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:christopher.brandt@usmc.mil
+ATTENDEE;CN="Bernard CIV Michael E";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:m
+	ichael.bernard@usmc.mil
+ATTENDEE;CN="Hogan CIV Peter J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:pete.hogan@usmc.mil
+ATTENDEE;CN="McDonald CTR James A III";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:james.a.mcdonald.ctr@usmc.mil
+ATTENDEE;CN="Livingston SSgt Victoria J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mai
+	lto:Victoria.Livingston@marines.usmc.mil
+ATTENDEE;CN="Hudson CIV Henry";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Henry.Hudson@marines.usmc.mil
+ATTENDEE;CN="Lee CIV James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:jim.lee@usmc.mil
+ATTENDEE;CN="Roseberry CIV Wayne D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:wayne.roseberry@usmc.mil
+ATTENDEE;CN="Logan PO3 Amiya D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:amiya
+	.logan@usmc.mil
+ATTENDEE;CN="Waters CTR Wilson A JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:wilson.waters.ctr@usmc.mil
+ATTENDEE;CN="Feeney CIV Stephen J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:St
+	ephen.Feeney@marines.usmc.mil
+ATTENDEE;CN="Dykstra CIV Jeremy R";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Je
+	remy.Dykstra@marines.usmc.mil
+ATTENDEE;CN="Garcia CIV James V";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:James.Garcia@marines.usmc.mil
+ATTENDEE;CN="Carino CIV Denwill Ross M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:DenwillRoss.Carino@marines.usmc.mil
+ATTENDEE;CN="Law CIV Alena M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Alena.L
+	aw@marines.usmc.mil
+ATTENDEE;CN="Dorta CIV Vincent M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Vin
+	cent.Dorta@marines.usmc.mil
+ATTENDEE;CN="Wilson CIV Denzel M";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:Denzel.Wilson@marines.usmc.mil
+ATTENDEE;CN="Bastrup CIV Cassie L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:cassie.l.bastrup@usmc.mil
+ATTENDEE;CN="Benavides CIV Frank C JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:frank.c.benavides@usmc.mil
+ATTENDEE;CN="Smith CIV Clinton I";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:clinton.i.smith1@usmc.mil
+ATTENDEE;CN="Pena Cpl Gerardo J";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:gera
+	rdo.pena@usmc.mil
+ATTENDEE;CN="Dzierbicki SSgt Thomas P";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:thomas.dzierbicki@usmc.mil
+ATTENDEE;CN="Banister CIV Robert Francis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:robert.f.banister@usmc.mil
+ATTENDEE;CN="McConnell CIV John D";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:john.d.mcconnell2@usmc.mil
+ATTENDEE;CN="Norton Capt Okcuse C";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:okcuse.norton@usmc.mil
+ATTENDEE;CN="Dandro CIV Michael A";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:michael.dandro@usmc.mil
+ATTENDEE;CN="Brady SSgt Tariq M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:tari
+	q.brady@usmc.mil
+ATTENDEE;CN="Villa CIV Manuel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:manuel.villa@usmc.mil
+ATTENDEE;CN="Stewart CIV Oscar W";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:oscar.w.stewart@usmc.mil
+ATTENDEE;CN="McClure CIV Lisa M";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:lisa.mcclure@usmc.mil
+ATTENDEE;CN="Woehler CIV Christopher G";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:christopher.woehler@usmc.mil
+ATTENDEE;CN="Velasco CIV John O";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:john.o.velasco@usmc.mil
+ATTENDEE;CN="Stengler CWO3 Mitchell L";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=TENTATIVE:mailto:mitchell.stengler@usmc.mil
+ATTENDEE;CN="MALS36 ALIMS";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:MALS36ALIM
+	S@usmc.mil
+ATTENDEE;CN="Smith MSgt Stanley D JR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:stanley.d.smith@usmc.mil
+ATTENDEE;CN="Wilcox CIV Marshall R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:marshall.wilcox@usmc.mil
+ATTENDEE;CN="Hall CIV Dakota G";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dakot
+	a.hall@usmc.mil
+ATTENDEE;CN="You MSgt Charles J";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:charles.you.mil@usmc.mil
+ATTENDEE;CN="Stewart Capt Monique N";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=DECLINED:mailto:monique.allyn@usmc.mil
+ATTENDEE;CN="Zagal Capt Raquel";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:raque
+	l.zagal@usmc.mil
+ATTENDEE;CN="Trobaugh PFC Gattlin E";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	gattlin.e.trobaugh.mil@usmc.mil
+ATTENDEE;CN="Tovarvelasquez PFC Christopher S";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE:mailto:christopher.s.tovarvelasquez.mil@usmc.mil
+ATTENDEE;CN="Rogers LCpl John N";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:john
+	.rogers@usmc.mil
+ATTENDEE;CN="Garcia Medina Sgt Cesar D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:cesar.garciamedina@usmc.mil
+ATTENDEE;CN="Morales Sgt Miriam R";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:miriam.morales@usmc.mil
+CLASS:PUBLIC
+CREATED:20250630T121226Z
+DESCRIPTION:For new and yearly refresher training related to Intune Adminis
+	tration and provisioning of devices for end users. \n\n\n\n\n_____________
+	___________________________________________________________________\nMicro
+	soft Teams Need help? <https://usg01.safelinks.protection.office365.us/?ur
+	l=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Ccr
+	aig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b
+	080f2e290072444fd%7C0%7C0%7C638868823459897361%7CUnknown%7CTWFpbGZsb3d8eyJ
+	FbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsI
+	ldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hqPr%2FVYNcwAtp8cwfdH1ODoYGr3HPCYVTrk2%
+	2Ftqmft8%3D&reserved=0>  \nJoin the meeting now <https://usg01.safelinks.p
+	rotection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2Fl%2Fmee
+	tup-join%2F19%253adod%253a6f94617acee347dc8512fefec941bf4f%2540thread.skyp
+	e%2F1720625186370%3Fcontext%3D%257b%2522Tid%2522%253a%2522f4c44cda-18c6-46
+	b0-80f2-e290072444fd%2522%252c%2522Oid%2522%253a%2522ec253d09-a531-4fd4-a0
+	ca-034d719c6367%2522%257d&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d
+	4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638
+	868823459914433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLj
+	AuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sd
+	ata=DNVsRe9MZI6eUjjQJOr%2F4BCoYfuyzRn5iXwhi0MmWVA%3D&reserved=0>  \nMeetin
+	g ID: 993 431 657 428 \nPasscode: oGhviN \n_______________________________
+	_\n\nDial in by phone \n+1 410-874-6743\,\,502461741# <tel:+14108746743\,\
+	,502461741#>  United States\, Odenton \nFind a local number <https://usg01
+	.safelinks.protection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams
+	.microsoft.us%2Fa0baf92a-c7a6-4aa5-a95c-0191d34d5250%3Fid%3D502461741&data
+	=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4
+	c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459924059%7CUnknown%7CTW
+	FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+	IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6Donq2hfTvW8d0eiRAxjiBZ%2F
+	TV1rm%2FP0Kmh4fxkrUM4%3D&reserved=0>  \nPhone conference ID: 502 461 741# 
+	\nFor organizers: Meeting options <https://usg01.safelinks.protection.offi
+	ce365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2FmeetingOptions%2F%3Fo
+	rganizerId%3Dec253d09-a531-4fd4-a0ca-034d719c6367%26tenantId%3Df4c44cda-18
+	c6-46b0-80f2-e290072444fd%26threadId%3D19_dod_6f94617acee347dc8512fefec941
+	bf4f%40thread.skype%26messageId%3D1720625186370%26language%3Den-US&data=05
+	%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44
+	cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459933093%7CUnknown%7CTWFpb
+	GZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjo
+	iTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FtImPzH6nlf%2FXhJkGoAL2VCl6AV
+	tWTIn4hG5Q1g7cbs%3D&reserved=0>  | Reset dial-in PIN <https://usg01.safeli
+	nks.protection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.micros
+	oft.us%2Fusp&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf2
+	08ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C6388688234599417
+	87%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA
+	iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Utx0Q%2BY
+	CcR4WL8qSAUkaw5TzX5Cg1%2F%2FWl06Et%2F2TdVQ%3D&reserved=0>  \n <https://www
+	.hqmc.marines.mil/Portals/134/Site%20Images/SmallLineArt.jpg> \n“If your
+	 meeting is setup for dial-in conferencing with a primary phone number and
+	 Conference ID# listed above\, you can alternatively use (410) 874-6753 or
+	 from a DSN telephone you can dial (322) 874-6743 or (322) 874-6753 and en
+	ter the Conference ID#.”\nOrg help <https://usmc.sharepoint-mil.us/sites
+	/MCEN_SUPPORT_EnterpriseServiceDesk?xsdata=MDV8MDJ8Y3JhaWcucmljaGllQHVzbWM
+	ubWlsfDRmODhhOWQ0YjExMjRhZTA1Y2YyMDhkZGI3Y2Y1ZDZifGY0YzQ0Y2RhMThjNjQ2YjA4M
+	GYyZTI5MDA3MjQ0NGZkfDB8MHw2Mzg4Njg4MjM0NTk5NDk3OTV8VW5rbm93bnxUV0ZwYkdac2I
+	zZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpYY
+	Vc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&sdata=MktTRWVpc2
+	RqWFhLT2EwU0xLMlhjQ29WSUNOQVFrdXl0VkxhS3hmUGdYST0%3d>  | Privacy and secur
+	ity <https://usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Fww
+	w.hqmc.marines.mil%2Fsja%2F&data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a
+	9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C6
+	38868823459955474%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+	LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+	sdata=eCqMfmmN6byW1kFN%2B4UAJJ7jNOX554m%2BJz%2FEmouMsS4%3D&reserved=0>  \n
+	__________________________________________________________________________
+	______\n
+DTEND;TZID="Eastern Standard Time":20250814T143000
+DTSTAMP:20250630T121219Z
+DTSTART;TZID="Eastern Standard Time":20250814T130000
+LAST-MODIFIED:20250722T171759Z
+ORGANIZER;CN="📱USMC Mobile Computing":invalid:nomail
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=11;BYDAY=TH;BYSETPOS=2
+SEQUENCE:169
+SUMMARY:Intune MSA Training
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000014F6708ADDD2DA01000000000000000
+	0100000000C768D2A0FC3DF449F28AFAE88728EEF
+X-ALT-DESC;FMTTYPE=text/html:<html><head>\n<meta http-equiv="Content-Type" 
+	content="text/html\; charset=utf-8"></head>\n<body>\n<p>For new and yearly
+	 refresher training related to Intune Administration and provisioning of d
+	evices for end users.&nbsp\;</p>\n<div><br>\n<br>\n<br>\n<div class="me-em
+	ail-text" style="max-width:520px\; color:#242424\; font-family:'Segoe UI'\
+	,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif">\n<div style="margin-bott
+	om:24px\; overflow:hidden\; white-space:nowrap">__________________________
+	______________________________________________________</div>\n<div style="
+	margin-bottom:12px"><span class="me-email-text" style="font-size:24px\; fo
+	nt-weight:700\; margin-right:12px">Microsoft Teams</span>\n<a href="https:
+	//usg01.safelinks.protection.office365.us/?url=https%3A%2F%2Faka.ms%2FJoin
+	TeamsMeeting%3Fomkt%3Den-US&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C
+	4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C
+	0%7C638868823459897361%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
+	iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
+	C%7C&amp\;sdata=hqPr%2FVYNcwAtp8cwfdH1ODoYGr3HPCYVTrk2%2Ftqmft8%3D&amp\;re
+	served=0" id="meet_invite_block.action.help" class="me-email-link" style="
+	font-size:14px\; text-decoration:underline\; color:#5B5FC7">\nNeed help?</
+	a> </div>\n<div style="margin-bottom:6px"><a href="https://usg01.safelinks
+	.protection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2Fl%2Fm
+	eetup-join%2F19%253adod%253a6f94617acee347dc8512fefec941bf4f%2540thread.sk
+	ype%2F1720625186370%3Fcontext%3D%257b%2522Tid%2522%253a%2522f4c44cda-18c6-
+	46b0-80f2-e290072444fd%2522%252c%2522Oid%2522%253a%2522ec253d09-a531-4fd4-
+	a0ca-034d719c6367%2522%257d&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C
+	4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C
+	0%7C638868823459914433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
+	iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
+	C%7C&amp\;sdata=DNVsRe9MZI6eUjjQJOr%2F4BCoYfuyzRn5iXwhi0MmWVA%3D&amp\;rese
+	rved=0" id="meet_invite_block.action.join_link" title="Meeting join link" 
+	class="me-email-headline" style="font-size:20px\; font-weight:600\; text-d
+	ecoration:underline\; color:#5B5FC7">Join\n the meeting now</a> </div>\n<d
+	iv style="margin-bottom:6px"><span class="me-email-text-secondary" style="
+	font-size:14px\; color:#616161">Meeting ID:\n</span><span class="me-email-
+	text" style="font-size:14px\; color:#242424">993 431 657 428</span>\n</div
+	>\n<div style="margin-bottom:24px"><span class="me-email-text-secondary" s
+	tyle="font-size:14px\; color:#616161">Passcode:\n</span><span class="me-em
+	ail-text" style="font-size:14px\; color:#242424">oGhviN</span>\n</div>\n<d
+	iv style="margin-bottom:24px\; max-width:532px">\n<hr style="border:0\; ba
+	ckground:#D1D1D1\; height:1px">\n</div>\n<div>\n<div style="margin-bottom:
+	6px"><span class="me-email-text" style="font-size:16px\; color:#242424\; f
+	ont-weight:600\; margin-right:4px">Dial in by phone</span>\n</div>\n<div s
+	tyle="margin-bottom:6px"><a href="tel:+14108746743\,\,502461741#" id="meet
+	_invite_block.action.join_phone_number1" class="me-email-link" style="font
+	-size:14px\; text-decoration:underline\; color:#5B5FC7\; margin-right:6px"
+	>+1 410-874-6743\,\,502461741#</a>\n<span class="me-email-text" style="fon
+	t-size:14px\; color:#616161">United States\, Odenton</span>\n</div>\n<div 
+	style="margin-bottom:6px"><a href="https://usg01.safelinks.protection.offi
+	ce365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.microsoft.us%2Fa0baf92a-c
+	7a6-4aa5-a95c-0191d34d5250%3Fid%3D502461741&amp\;data=05%7C02%7Ccraig.rich
+	ie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080f2e29
+	0072444fd%7C0%7C0%7C638868823459924059%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1
+	hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf
+	Q%3D%3D%7C0%7C%7C%7C&amp\;sdata=6Donq2hfTvW8d0eiRAxjiBZ%2FTV1rm%2FP0Kmh4fx
+	krUM4%3D&amp\;reserved=0" id="meet_invite_block.action.join_phone_find_loc
+	al_number" class="me-email-link" style="font-size:14px\; text-decoration:u
+	nderline\; color:#5B5FC7">Find\n a local number</a> </div>\n</div>\n<div s
+	tyle="margin-bottom:24px"><span class="me-email-text-secondary" style="fon
+	t-size:14px\; color:#616161">Phone conference ID:\n</span><span class="me-
+	email-text" style="font-size:14px\; color:#242424">502 461 741#</span>\n</
+	div>\n<div><span class="me-email-text-secondary" style="font-size:14px\; c
+	olor:#616161">For organizers:\n</span><a href="https://usg01.safelinks.pro
+	tection.office365.us/?url=https%3A%2F%2Fdod.teams.microsoft.us%2FmeetingOp
+	tions%2F%3ForganizerId%3Dec253d09-a531-4fd4-a0ca-034d719c6367%26tenantId%3
+	Df4c44cda-18c6-46b0-80f2-e290072444fd%26threadId%3D19_dod_6f94617acee347dc
+	8512fefec941bf4f%40thread.skype%26messageId%3D1720625186370%26language%3De
+	n-US&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208d
+	db7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459933093%
+	7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOi
+	JXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=FtImPzH
+	6nlf%2FXhJkGoAL2VCl6AVtWTIn4hG5Q1g7cbs%3D&amp\;reserved=0" id="meet_invite
+	_block.action.organizer_meet_options" class="me-email-link" style="font-si
+	ze:14px\; text-decoration:underline\; color:#5B5FC7">Meeting\n options</a>
+	 <span style="color:#D1D1D1">|</span> <a href="https://usg01.safelinks.pro
+	tection.office365.us/?url=https%3A%2F%2Fdialin.cpc.dod.teams.microsoft.us%
+	2Fusp&amp\;data=05%7C02%7Ccraig.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208
+	ddb7cf5d6b%7Cf4c44cda18c646b080f2e290072444fd%7C0%7C0%7C638868823459941787
+	%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiO
+	iJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=Utx0Q%
+	2BYCcR4WL8qSAUkaw5TzX5Cg1%2F%2FWl06Et%2F2TdVQ%3D&amp\;reserved=0" id="meet
+	_invite_block.action.organizer_reset_dialin_pin" class="me-email-link" sty
+	le="font-size:14px\; text-decoration:underline\; color:#5B5FC7">\nReset di
+	al-in PIN</a> </div>\n<div style="margin-top:24px\; margin-bottom:6px"><im
+	g data-imagetype="External" style="height:32px\; display:block\; margin-bo
+	ttom:6px" src="https://www.hqmc.marines.mil/Portals/134/Site%20Images/Smal
+	lLineArt.jpg">\n<div class="me-email-text-secondary" style="color:#616161\
+	; font-size:14px">“If your meeting is setup for dial-in conferencing wit
+	h a primary phone number and Conference ID# listed above\, you can alterna
+	tively use (410) 874-6753 or from a DSN telephone you can\n dial (322) 874
+	-6743 or (322) 874-6753 and enter the Conference ID#.”</div>\n</div>\n<d
+	iv style="margin-bottom:24px"><a href="https://usmc.sharepoint-mil.us/site
+	s/MCEN_SUPPORT_EnterpriseServiceDesk?xsdata=MDV8MDJ8Y3JhaWcucmljaGllQHVzbW
+	MubWlsfDRmODhhOWQ0YjExMjRhZTA1Y2YyMDhkZGI3Y2Y1ZDZifGY0YzQ0Y2RhMThjNjQ2YjA4
+	MGYyZTI5MDA3MjQ0NGZkfDB8MHw2Mzg4Njg4MjM0NTk5NDk3OTV8VW5rbm93bnxUV0ZwYkdac2
+	IzZDhleUpGYlhCMGVVMWhjR2tpT25SeWRXVXNJbFlpT2lJd0xqQXVNREF3TUNJc0lsQWlPaUpY
+	YVc0ek1pSXNJa0ZPSWpvaVRXRnBiQ0lzSWxkVUlqb3lmUT09fDB8fHw%3d&amp\;sdata=MktT
+	RWVpc2RqWFhLT2EwU0xLMlhjQ29WSUNOQVFrdXl0VkxhS3hmUGdYST0%3d" id="meet_invit
+	e_block.action.org_help" class="me-email-link" style="font-size:14px\; tex
+	t-decoration:underline\; color:#5B5FC7">Org help</a>\n<span style="color:#
+	D1D1D1">|</span> <a href="https://usg01.safelinks.protection.office365.us/
+	?url=https%3A%2F%2Fwww.hqmc.marines.mil%2Fsja%2F&amp\;data=05%7C02%7Ccraig
+	.richie%40usmc.mil%7C4f88a9d4b1124ae05cf208ddb7cf5d6b%7Cf4c44cda18c646b080
+	f2e290072444fd%7C0%7C0%7C638868823459955474%7CUnknown%7CTWFpbGZsb3d8eyJFbX
+	B0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldU
+	IjoyfQ%3D%3D%7C0%7C%7C%7C&amp\;sdata=eCqMfmmN6byW1kFN%2B4UAJJ7jNOX554m%2BJ
+	z%2FEmouMsS4%3D&amp\;reserved=0" id="meet_invite_block.action.org_privacy"
+	 class="me-email-link" style="font-size:14px\; text-decoration:underline\;
+	 color:#5B5FC7">\nPrivacy and security</a> </div>\n<div style="margin-bott
+	om:24px\; overflow:hidden\; white-space:nowrap">__________________________
+	______________________________________________________</div>\n</div>\n</di
+	v>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:172
+X-MS-OLK-APPTSEQTIME:20250630T121219Z
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
